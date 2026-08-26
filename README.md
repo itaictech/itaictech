@@ -1,7 +1,4 @@
 
-[![GitHub Followers](https://img.shields.io/github/followers/itaictech?style=for-the-badge&logo=github&color=blue)](https://github.com/itaictech)
----
-
 [![Website](https://img.shields.io/badge/Website-aitech.net-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aitech.net)
 
 [![Email](https://img.shields.io/badge/Email-sistemas02@aictech.net-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sistemas02@aictech.net)
