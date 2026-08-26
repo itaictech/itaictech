@@ -1,9 +1,9 @@
 # 👋 Hola, somos AIC TECH C.A 🚀
 ### *Transformando ideas en soluciones tecnológicas de alto impacto*
 
-[![Website](https://img.shields.io/badge/Website-aitech.com.ve-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aitech.com.ve)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AIC%20TECH-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-contacto%40aitech.com.ve-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@aitech.com.ve)
+[![Website](https://img.shields.io/badge/Website-aitech.com.ve-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aitech.net)
+
+[![Email](https://img.shields.io/badge/Email-contacto%40aitech.com.ve-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sistemas02@aictech.net)
 [![Location](https://img.shields.io/badge/Location-Venezuela-green?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 ---
