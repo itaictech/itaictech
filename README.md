@@ -37,5 +37,5 @@ En **AIC TECH, C.A.** somos una empresa dedicada a brindar servicios de vanguard
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AIC-TECH&show_icons=true&theme=tokyonight" alt="AIC TECH GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=itaictech&show_icons=true&theme=tokyonight" alt="AIC TECH GitHub Stats" width="48%" />
   <img src="h
