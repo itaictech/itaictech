@@ -1,5 +1,6 @@
-# 👋 Hola, somos AIC TECH C.A 🚀
-### *Transformando ideas en soluciones tecnológicas de alto impacto*
+
+[![GitHub Followers](https://img.shields.io/github/followers/itaictech?style=for-the-badge&logo=github&color=blue)](https://github.com/itaictech)
+---
 
 [![Website](https://img.shields.io/badge/Website-aitech.net-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aitech.net)
 
@@ -38,5 +39,3 @@ En **AIC TECH, C.A.** somos una empresa dedicada a brindar servicios de vanguard
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-[![GitHub Followers](https://img.shields.io/github/followers/itaictech?style=for-the-badge&logo=github&color=blue)](https://github.com/itaictech)
